@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull newes from Scotland brought over by the Lord Mackland, and read in the House of Commons upon Thursday last, being the 18. day of this instant month of August, 1642. With the Paliaments [sic] resolution concerning the Yorkshire propositions declaring their intentions for the sending downe of forces both of horse and foot, for the safety of the said county. Likewise the resolution of the Earle of Rutland, the Earle of Exceter, and the Lord Paget, with divers others that are come from His Majesty, are resolved to come to the house again if they may be received. Ordered that this be printed and published. Hen. Elsing, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84249</idno>
+            <idno type="STC">Wing E3753</idno>
+            <idno type="STC">Thomason E112_43</idno>
+            <idno type="STC">ESTC R20148</idno>
+            <idno type="EEBO-CITATION">99861984</idno>
+            <idno type="PROQUEST">99861984</idno>
+            <idno type="VID">156007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84249)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156007)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull newes from Scotland brought over by the Lord Mackland, and read in the House of Commons upon Thursday last, being the 18. day of this instant month of August, 1642. With the Paliaments [sic] resolution concerning the Yorkshire propositions declaring their intentions for the sending downe of forces both of horse and foot, for the safety of the said county. Likewise the resolution of the Earle of Rutland, the Earle of Exceter, and the Lord Paget, with divers others that are come from His Majesty, are resolved to come to the house again if they may be received. Ordered that this be printed and published. Hen. Elsing, Cler. Parl. D. Com.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>August 20. Printed for J. Horten,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Exeter, David Cecil, --  Earl of, ca. 1604-1643 --  Early works to 1800.</term>
+               <term>Mackland, --  Lord --  Early works to 1800.</term>
+               <term>Paget, William Paget, --  Baron, 1609-1678 --  Early works to 1800.</term>
+               <term>Rutland, John Manners, --  Earl of, 1604-1679 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156007:1"/>
+            <pb facs="tcp:156007:1" rendition="simple:additions"/>
+            <p>Exceeding Joyfull NEWES FROM SCOTLAND Brought over By the Lord <hi>Mackland,</hi> and read in the Houſe of Commons upon Thurſday laſt, being the 18. day of this inſtant month of <hi>Auguſt,</hi> 1642.</p>
+            <p>WITH The PALIAMENTS Reſolution concerning the <hi>Yorkſhire</hi> propoſitions declaring their intentions for the ſending downe of Forces both of Horſe and Foot, for the ſafety of the ſaid County.</p>
+            <p>LIKEWISE The Reſolution of the Earle of <hi>Rutland,</hi> the Earle of <hi>Exceter,</hi> and the Lord <hi>Paget,</hi> with divers others that are come from His Majeſty, are reſolved to come to the Houſe again, if they may be received</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be printed and publiſhed,</p>
+                        <closer>
+                           <signed>Hen. Elſing, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Auguſt</hi> 20. Printed for <hi>J. Horten.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="prefatory_report">
+            <pb facs="tcp:156007:2"/>
+            <p>VPon Thurſday laſt the Houſe of Com<g ref="char:EOLhyphen"/>mons entred in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o debate of ſome Propo<g ref="char:EOLhyphen"/>poſitions ſent to the Houſe out of <hi>Yorke<g ref="char:EOLhyphen"/>ſhire,</hi> for the defence and ſafety therof againſt the outrages of the Cavaleers, and having ſome while diſputed thereon, they reſolved ſome Troops of Horſe and Foot ſhould be forthwith ſent into that County</p>
+            <p>The Lord <hi>Mackland</hi> came out of <hi>Scotland</hi> and acquainted the Houſe of certaine buſineſſes agi<g ref="char:EOLhyphen"/>tared in their Aſſembly concerning the peace and union of the two Kingdomes of <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>The Earle of <hi>Exeter,</hi> the Earle of <hi>Rutland,</hi> the Lord <hi>Paget,</hi> and divers others are come from His Majeſty, and are reſolved to come to the Houſe againe, if they may be received in.</p>
+         </div>
+         <div type="newsbook">
+            <pb n="1" facs="tcp:156007:2"/>
+            <head>EXCEEDING Joyfull News from <hi>Cumberland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Here hath been of late dayes many attempts made againſt the Forts and Caſtles that are the keyes of the Kingdome, as wee count them, and may juſtly torme them ſo, by reaſon that they are the ſtrong bolds that wee have for our defence, which attempts hath bin made
+<pb n="2" facs="tcp:156007:3"/>by the Cavaleers the ſcum of the Coun<g ref="char:EOLhyphen"/>trey, who hath beene beaten often off by the Religious partie that ſtands for Gods true Goſpel, yet for all this they could not be at reſt and quiet, but muſt needs preſume to aſſault <hi>Windſore</hi> Caſtle the key and ſtrength of the adjacent Coun<g ref="char:EOLhyphen"/>ties, but they and all their plots could not take effect, for they were ſoone diſ<g ref="char:EOLhyphen"/>cryed, inſomuch that if they had not be<g ref="char:EOLhyphen"/>tooke themſelve to flight, they had moſt of them been taken, yet ſtill muſt theſe blood-ſucking Rebels be in action, al<g ref="char:EOLhyphen"/>though they come by the worſt out, as may plainely appeare by theſe enſuing particulars:</p>
+            <p>The Cavaleeres and the reſt of thoſe perſons that are ill affected to the Par<g ref="char:EOLhyphen"/>liament ſeeing that they could not bring to paſſe their wicked deſigns concerning <hi>Portſmouth</hi> on the 16. of this inſtant month of <hi>Auguſt</hi> they aſſembled together neere to the Ile of <hi>Wight,</hi> thinking to enter on
+<pb n="3" facs="tcp:156007:3"/>the ſame in the night time, but they were diſappointed, for miſinformation had beene given to the Inhabitants of the ſaid land, and ſo by that means they could not bring their deſignes perfacti<g ref="char:EOLhyphen"/>on, and underſtanding alſo the number of Cavaleers, and the place where they lay, they appointed Captaine <hi>Johnſon</hi> a man of moſt puiſtant courage, to fally forth of the Town with 300. men very we armed, who comming to the ſaid place, where the Cavaleeres were billited, Cap<g ref="char:EOLhyphen"/>taine <hi>Iohnſon</hi> gave fire againſt them, the Cavaleeres ſeeing that, moſt furiouſly charged againſt the ſaid Captaine and his followers and hurt ſome two of his men, but at the laſt they bad the worſt out, for about 9. of the clock in the fore<g ref="char:EOLhyphen"/>noon they began to ſhew themſelves in battell array, and after ſome parley they fell to it like furious Lions, and when they had felt the angry bullets on both ſides, they reſted for the ſpace of two
+<pb n="4" facs="tcp:156007:4"/>or three houres, and then fell on againe with as much fury as they did at firſt, which skirmiſh continued a long time, the victory being very doubtfull on both ſides etch ſtriving for the day, which af<g ref="char:EOLhyphen"/>ter, which after ſome continuance, it pleaſed God to give the Parliaments partie the day, and the Cavaleers fled, ſo many as poſſible could get away, but Captance <hi>Johnſon</hi> hath ſlaine and woun<g ref="char:EOLhyphen"/>d<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great number of them, having not above 7. men of his ſide wounded.</p>
+            <p>The greateſt part of the adjacent Coun<g ref="char:EOLhyphen"/>tries neere the Ile of <hi>Wight</hi> ſtand for the Parliament, and hath taken an Oath and proteſtation among themſelves to main<g ref="char:EOLhyphen"/>taine Gods true Religion, His Majeſties Honour, the priviledges of Parliament, and the Lawes and Liberties of the Sub<g ref="char:EOLhyphen"/>ject, which Proteſtation was cheerefully taken amongſt divers poore Countrey fellowes.</p>
+            <p>It was alſo credibly reported to the
+<pb n="5" facs="tcp:156007:4"/>Honorable Aſſembly, that the State of the Ile of <hi>Wight</hi> was very weake, by rea<g ref="char:EOLhyphen"/>ſon that they wanted Ammunition, and divers other things belonging to the ſaid Cattle, and that the walls or the Towne was much out of repaire, Whereupon the Houſe being willing to grant their deſires, forthwith reſolved that the Earle of <hi>Pembroke</hi> ſhould goe downe and have the charge of the ſaid Caſtle committed to his truſt, which was accordingly performed, and their Order unto the ſaid Earle for his ſpeedy ſetting forth.</p>
+            <p>From <hi>Cumberland</hi> it is credibly repor<g ref="char:EOLhyphen"/>ted that the Cavaleers began to commit many outrages againſt the inhabitants thereof, and hath taken many Horſes and Cattell from them, and taking mary o-other things of great worth from them, and ſtill more and more to uſurpe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e, till it pleaſed God to <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ue the inhabitants thereof with courage to withſtand them, and having reſolved a<g ref="char:EOLhyphen"/>mongſt
+<pb n="6" facs="tcp:156007:5"/>themſelves to be eaſed of this great but then which was laid upon them they generally conſented in one voice together to raiſe all the powers they could for the ſuppreſſing of theſe wicked perſons, and having ſo done they marcht againſt them with a great number of men, and took divers of them priſoners and are now fully reſolved to kill and ſlay all thoſe that ſhall oppoſe them.</p>
+            <p>The Earle of <hi>Cumberland,</hi> Generall of His Majeſties Army doth perſiſt in his actions ſtill, and doth endeavour to put the Commiſſion of Array in execution, but the Lords and Commons have de<g ref="char:EOLhyphen"/>clared, that the County ſhall raiſe all the force they poſſible can to withſtand theſe perſons, that doth raiſe and endeavour to bring in a Civill warre in this King<g ref="char:EOLhyphen"/>dome.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Ordered to be forthwith Printed and pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <closer>
+               <signed>Hen. Elſynge, Cler. Par. D.C.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
